@@ -1,0 +1,19 @@
+{
+  "name": "bussiness-plan",
+  "version": "1.0.0",
+  "description": "A place to house business ideas and information",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NathanMartinez/business-ideas.git"
+  },
+  "author": "Nathan Martinez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NathanMartinez/business-ideas/issues"
+  },
+  "homepage": "https://github.com/NathanMartinez/business-ideas#readme"
+}
